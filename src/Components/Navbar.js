@@ -22,6 +22,12 @@ function Navbar() {
             <li>
                 <Link to="/count">Counttracker</Link>
             </li>
+            <li>
+                <Link to="/todo">TodoItems</Link>
+            </li>
+            <li>
+                <Link to="/todos">TodoPage</Link>
+            </li>
         </ul>
       </nav>
     </div>
